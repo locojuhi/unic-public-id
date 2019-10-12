@@ -2,7 +2,7 @@
     "name": "locojuhi/unic-public-id",
     "description": "Unic public id generator",
     "type": "library",
-    "license": "GNU",
+    "license": "gpl-3.0",
     "authors": [
         {
             "name": "Danny Torres",
